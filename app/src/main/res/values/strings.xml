@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scoreboard</string>
+
+    <!-- Main Activity Strings-->
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="ok">OK</string>
+    <string name="add_score_message">Enter name and score of the player.</string>
+    <string name="empty_list_text">The list is empty!</string>
+    <string name="empty_text">Empty!</string>
+    <string name="no">No</string>
+    <string name="player_name">Player Name</string>
+    <string name="score_updated">Score has been updated!</string>
+    <string name="score_already_higher">Player has already higher score!</string>
+
+</resources>
